@@ -5,9 +5,11 @@
 
   <body>
 
-    {% include header.html %}
+    {% if page.header != false %}
+      {% include header.html %}
+    {% endif %}
 
-    <div class="page-content">
+    <div class="page-content {% if page.header == false %}no-header{% endif %}">
       <div class="wrapper">
         {{ content }}
       </div>
