@@ -21,7 +21,8 @@ I am a jack-of-all-trades programmer with over **15 years** experience, currentl
 ## Experience 
 
 ### Educational Technology Center - Texas State University, San Marcos, TX
-Programmer Analyst II -- 2009 to Present
+
+#### Programmer Analyst II -- 2009 to Present
 
 * Implemented the university's **Android** application and contributed to the **iOS** application.
 * Modified and maintain open-source **Java-based CMS** that hosts 300+ university websites. Developed custom site templates, created new features, fixed bugs (and submitted them back upstream), and integrated the application with other university systems.
@@ -32,7 +33,8 @@ Programmer Analyst II -- 2009 to Present
 
 
 ### Systems Application Engineering, Inc. - Houston, TX 
-Systems Analyst -- 2002 to 2009
+
+#### Systems Analyst -- 2002 to 2009
 
 * Created **mobile** applications on **DOS** and **Windows-CE** based mobile devices for food distribution and other industries.
 * Wrote the server-side applications they communicated with, running on **Windows** or **Unix** platforms.

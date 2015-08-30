@@ -74,6 +74,14 @@ li {
     }
 }
 
+@include media-query($on-palm) {
+    ul, ol {
+        margin-left: $spacing-unit / 1.5;
+    }
+    li {
+        margin-bottom: $spacing-unit / 2;
+    }
+}
 
 
 /**
