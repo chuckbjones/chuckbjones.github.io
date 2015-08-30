@@ -48,12 +48,12 @@ $on-laptop:        800px;
     display: none;
 }
 
-.resume-wrap {
-    h3:nth-of-type(2) {
-        page-break-before: always;
-        padding-top: $spacing-unit;
-    }
-}
+// .resume-wrap {
+//     h3:nth-of-type(2) {
+//         page-break-before: always;
+//         padding-top: $spacing-unit;
+//     }
+// }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

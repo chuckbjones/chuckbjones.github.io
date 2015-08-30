@@ -12,24 +12,26 @@ I am a jack-of-all-trades programmer with over **15 years** experience, currentl
 
 ## Skills
 
-* Web: Ruby/Rails, Java, HTML5, CSS, Javascript/ECMAScript, JQuery, MySQL, RESTful HTTP APIs
+* Web: Ruby/Rails, Java, HTML5, CSS, Javascript/ECMAScript, JQuery, MySQL, CouchDB, RESTful HTTP APIs
 * Mobile: Android - Java, Apple iOS - Objective C
-* Unix/Linux system applications and scripting: C/C++, Ruby, Python, Perl, Shell (Bash) scripting
-* Learning: Node, Backbone, NoSQL/MongoDB
-
+* Unix/Linux system applications and scripting: C/C++, Ruby, Go, Python, Perl, Shell (Bash) scripting
+* Learning: Microservice architectures, Inclusive design
 
 ## Experience 
 
 ### Educational Technology Center - Texas State University, San Marcos, TX
 
-#### Programmer Analyst II -- 2009 to Present
+#### Senior Programmer Analyst -- 2014 to Present
 
-* Implemented the university's **Android** application and contributed to the **iOS** application.
-* Modified and maintain open-source **Java-based CMS** that hosts 300+ university websites. Developed custom site templates, created new features, fixed bugs (and submitted them back upstream), and integrated the application with other university systems.
-* Developed a **Ruby on Rails** application for workshop and training registration, scaling it up from a few users to over 40 departments.
-* Implemented a **Rails** application for the University Event Calendar, managing events for over 70 university departments.
-* Implemented Lifecycle, a **Rails** application for management of several CMS-type services and their users.
-* Maintain a web-crawler that scans university websites for dead links using Lifecycle and the open-source **Python** Linkchecker software, and submitted several bug-fixes upstream.
+* Led development of the university's **Android** and **iOS** applications.
+* Developing policy and guidelines mandating mobile-friendly web design for all university websites.
+* Implemented caching proxy server in **Go** for distributed microservices that enabled efficient access of these services by many different applications and thousands of users.
+
+#### Programmer Analyst II -- 2009 to 2014
+
+* Modified and maintained open-source **Java-based CMS** that hosts 300+ university websites. Developed custom site templates, created new features, fixed bugs (and submitted them back upstream), and integrated the application with other university systems.
+* Developed several **Ruby on Rails** applications including a workshop reservation system and the University Events Calendar, both used by dozens of departments across the university.
+* Maintained a web-crawler that scans university websites for dead links using Lifecycle and the open-source **Python** Linkchecker software, and submitted several bug-fixes upstream.
 
 
 ### Systems Application Engineering, Inc. - Houston, TX 
