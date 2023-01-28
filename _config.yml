@@ -3,11 +3,10 @@ title: chuckbjones.com
 author: Charles Jones
 email: cbj3&#64;chuckbjones&#46;com
 description: > # this means to ignore newlines until "baseurl:"
-  I live in Texas and manipulate strings of 1s and 0s for fun and profit. 
+  I live in Colorado and manipulate strings of 1s and 0s for fun and profit. 
   Occasionally both at the same time!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chuckbjones.com" # the base hostname & protocol for your site
-twitter_username: cbj3txst
 github_username:  chuckbjones
 
 # Build settings
