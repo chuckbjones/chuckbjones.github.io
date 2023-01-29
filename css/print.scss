@@ -7,11 +7,11 @@
 
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   14px;
+$base-font-size:   12px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.2;
 
-$spacing-unit:     30px;
+$spacing-unit:     26px;
 
 $text-color:       #000;
 $background-color: #fff;
@@ -48,13 +48,13 @@ $on-laptop:        800px;
     display: none;
 }
 
-.resume-wrap {
-    // push PlumRiver onto page 2
-    h3:nth-of-type(2) {
-        page-break-before: always;
-        padding-top: $spacing-unit;
-    }
-}
+// .resume-wrap {
+//     // push PlumRiver onto page 2
+//     h3:nth-of-type(2) {
+//         page-break-before: always;
+//         padding-top: $spacing-unit;
+//     }
+// }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
